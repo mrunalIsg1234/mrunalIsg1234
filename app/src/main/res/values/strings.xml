@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqliteSample2</string>
+
+    <string name="lbl_join_date">Join Date:</string>
+    <string name="lbl_age1">(Age: </string>
+    <string name="lbl_age2">)</string>
+</resources>
